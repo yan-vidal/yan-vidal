@@ -1,6 +1,8 @@
 <h1 align="center">☃️ Hi, I'm Yan Vidal</h1>
 <p align="center">
-I’m a software engineer currently working on + A Educação, A Brazilian Edtech
+💻 I'm a Software Engineer focused on creating impactful solutions. Currently:
+- Building educational platforms at +A [Educação](https://maisaedu.com.br/) 📚
+- Contributing to various [Open Source projects](https://github.com/yan-vidal?tab=repositories) 🌐
 </p>
 <!--
 **yan-vidal/yan-vidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
