@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<h1 align="center">☃️ Hi, I'm Yan Vidal</h1>
+<p align="center">
+I’m a software engineer currently working on + A Educação, A Brazilian Edtech
+</p>
 <!--
 **yan-vidal/yan-vidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
